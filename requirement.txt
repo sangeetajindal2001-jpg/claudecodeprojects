@@ -1,0 +1,5 @@
+This is the login screen
+allow user to input username and password
+allow facebook and google account
+store data in mysql databse in phpmyadmin
+having captcha
